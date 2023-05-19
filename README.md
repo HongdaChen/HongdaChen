@@ -1,9 +1,9 @@
 ### Hi there 👋
 
  - 🤖 I'm a postgraduate student in XJTU.
- - 🌱 I’m currently focusing on federated learning.
+ - 🌱 I’m currently focusing on reinforcement learning applied in autonomous driving. (previously working on federated learning).
  - 👀 If you have any questions about my repos, just open an issue and I would reply you ASAP.
- - 📫 How to reach me: 89034523@qq.com
+ - 📫 How to reach me: aikedaer@gmail.com
 
 <!--
 **HongdaChen/HongdaChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
